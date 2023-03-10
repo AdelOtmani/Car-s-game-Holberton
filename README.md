@@ -51,8 +51,6 @@ This is a Portfolio Project for end of first year at [Holberton School](https://
 
 Thank you for the support.
 
-[![demo](lien img "texteimg")](url link)
-
 [![github]([https://user-images.githubusercontent.com/105648440/224240475-e874f4ef-0735-4a83-a672-55dfce87b2fc.png "texteimg")](https://github.com/AdelOtmani)
 
 [![linkdin](https://user-images.githubusercontent.com/105648440/224242197-62dd9a53-592a-41e9-ad8c-6907e48cf907.png "gggggggg")](https://www.linkedin.com/in/adel-otmani-1592a8244/)
