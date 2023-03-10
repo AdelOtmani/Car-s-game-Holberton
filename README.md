@@ -2,11 +2,11 @@
 presentation of my student project
 
 ## Summary
-[Introduction](#Introduction)
+[Introduction](#introduction)
 
-[Features](#Features)
+[Features](#features)
 
-[About](#About)
+[About](#about)
 
 ![Capture d'écran 2023-03-09 165551](https://user-images.githubusercontent.com/105648440/224080128-838ae6b1-c0b8-4a0a-b0a9-7ee8bdccfc1d.png)
 
