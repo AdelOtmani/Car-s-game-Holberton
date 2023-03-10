@@ -18,10 +18,10 @@ Press Arrow **Left** to turn to the left
 </br>
 Press Arrow **Down** to stop or drive in reverse
 </br>
-e have a Main menu to start the game or quit and when you finish de road we have a end screen where you can quit the game 
-menupage![Capture d'écran 2023-03-10 065210](https://user-images.githubusercontent.com/105648440/224234680-1ba3226e-89f0-4346-9de0-218aaef50bfa.png)
+We have a Main menu to start the game or quit and when you finish de road we have a end screen where you can quit the game 
+Menupage![Capture d'écran 2023-03-10 065210](https://user-images.githubusercontent.com/105648440/224234680-1ba3226e-89f0-4346-9de0-218aaef50bfa.png)
 
-menupage![image_2023-03-10_065251731](https://user-images.githubusercontent.com/105648440/224234646-c6bdf56a-0ca0-4dc8-aabb-fb132085e9f8.png)
+Endpage![image_2023-03-10_065251731](https://user-images.githubusercontent.com/105648440/224234646-c6bdf56a-0ca0-4dc8-aabb-fb132085e9f8.png)
 
 
 ## Feature
@@ -32,7 +32,6 @@ my features are in number of :
   - backlignt
   - motor's son
 
-(https://user-images.githubusercontent.com/105648440/224240475-e874f4ef-0735-4a83-a672-55dfce87b2fc.png)
 
 ### future features
 For futur updates we have :
@@ -46,6 +45,6 @@ This is a Portfolio Project for end of first year at [Holberton School](https://
 Thank you for the support.
 [![demo](lien img "texteimg")](url link)
 [![github]([https://user-images.githubusercontent.com/105648440/224240475-e874f4ef-0735-4a83-a672-55dfce87b2fc.png "texteimg")](https://github.com/AdelOtmani)
-[![linkdin](lien img "texteimg")](url link)
+[![linkdin](https://user-images.githubusercontent.com/105648440/224242197-62dd9a53-592a-41e9-ad8c-6907e48cf907.png "gggggggg")](https://www.linkedin.com/in/adel-otmani-1592a8244/)
 
 [Repository of this project](https://github.com/AdelOtmani/Car-s-game-Holberton)
