@@ -29,7 +29,7 @@ We have a Main menu to start the game or quit and when you finish de road we hav
 ![image_2023-03-10_065251731](https://user-images.githubusercontent.com/105648440/224234646-c6bdf56a-0ca0-4dc8-aabb-fb132085e9f8.png)
 
 
-## Feature
+## Features
 my features are in number of :
   - the car running 
   - turning right and left
